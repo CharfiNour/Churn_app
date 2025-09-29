@@ -5,3 +5,5 @@ scikit-learn
 ydata-profiling
 matplotlib
 seaborn
+Pillow==10.4.0
+qrcode==7.4.2
